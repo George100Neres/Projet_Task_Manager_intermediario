@@ -1,0 +1,23 @@
+# Arquivos temporários e de compilação do NetBeans
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+**/nbproject/private/
+
+# Arquivos de classes compiladas
+*.class
+
+# Banco de dados local SQLite (gerado automaticamente)
+*.db
+*.db-journal
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
